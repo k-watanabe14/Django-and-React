@@ -1,1 +1,1 @@
-# Djang-and-React
+# Django-and-React
